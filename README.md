@@ -7,7 +7,7 @@ To run the app, clone this repository and open it in Android Studio. Then, click
 
 The app has two screens: a home screen and a detail screen. You can navigate between the two screens by clicking the buttons on the home screen.
 
-some new options will be added soon!
+some new features will be added soon!
 
 The app uses the Navigation component to manage navigation between the two screens. The Navigation component provides a number of benefits, including:
 
