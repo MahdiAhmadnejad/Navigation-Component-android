@@ -6,9 +6,10 @@ This is a simple navigation and navigation component example app that you can us
 To run the app, clone this repository and open it in Android Studio. Then, click the green "run" button in the toolbar.
 
 The app has two screens: a home screen and a detail screen. You can navigate between the two screens by clicking the buttons on the home screen.
-
 some new features will be added soon!
+
 ![img](preview/device-2023-10-15-111757.gif)
+
 The app uses the Navigation component to manage navigation between the two screens. The Navigation component provides a number of benefits, including:
 
 * It makes it easy to create complex navigation flows.
